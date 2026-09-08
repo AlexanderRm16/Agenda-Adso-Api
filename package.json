@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./node_modules/json-server/lib/cli/bin.js --watch db.json"
+    "start": "node ./node_modules/json-server/lib/bin.js db.json"
   },
   "repository": {
     "type": "git",
